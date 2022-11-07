@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://resume-christopher-distasio.s3.filebase.com/Current-Resume-Christopher-DiStasio.pdf'
+                      href='https://resume-christopher-distasio.s3.filebase.com/Current-WD-Resume-Chris-DiStasio.pdf'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
